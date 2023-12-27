@@ -1,4 +1,4 @@
-# Netfilix
+# Netflix
 Perform some NLP tasks on a Netflix data provided by Kaggle. 
 
 URL: https://www.kaggle.com/datasets/shivamb/netflix-shows/
